@@ -1,3 +1,4 @@
-# 2023-S1-US-18
+# 2024-S1-MX-24
 
-this project ....
+
+This is a SEQ 200MHz (8k channels) project.
