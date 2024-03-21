@@ -10,7 +10,7 @@ project="2024-S1-MX-24"
 
 #        obsnums per source (make it negative if not added to the final combination)
 on = {}
-on['Per-emb-2'] = [113271 ]
+on['Per-emb-2'] = [113271, 113408, 113410, 113412,]
 
 
 #        common parameters per source on the first dryrun (run1a, run2a)
