@@ -1,7 +1,9 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 #123456    QAFAIL     # ...
 
-113271  narrow line
+113271  narrow line 
 113408  odd wide baseline + narrow
 113410  narrow line
-113412  no detection
+113412  no detection? 
+
+
