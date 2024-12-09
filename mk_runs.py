@@ -21,7 +21,7 @@ pars1['Per-emb-2']   = "dv=5 dw=20 b_order=1"
 
 #        common parameters per source on subsequent runs (run1b, run2b)
 pars2 = {}
-pars2['Per-emb-2']   = "srdp=1 admit=0 pix_list=-3,14"
+pars2['Per-emb-2']   = "srdp=1 admit=0"
 
 if __name__ == '__main__':    
     runs.mk_runs(project, on, pars1, pars2, None, sys.argv)

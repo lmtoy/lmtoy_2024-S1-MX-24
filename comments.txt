@@ -1,9 +1,15 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
 #123456    QAFAIL     # ...
 
-113271  narrow line 
-113408  odd wide baseline + narrow
-113410  narrow line
-113412  no detection? 
-
+113271  bad beam 3, 14, narrow line	#pix_list=-3,-14 
+113408  bad beam 2, odd wide baseline + narrow	#pix_list=-2
+113410  bad beam 3, 14, narrow line	#pix_list=-3,-14
+113412  bad beam 3, 14, no detection?	#pix_list=-3,-14
+123258  bad beam 3, 14	#pix_list=-3,-14
+123260  bad beam 3	#pix_list=-3
+123323  bad beam 3      #pix_list=-3
+123327  bad beam 3      #pix_list=-3
+123493  bad beam 3, 14      #pix_list=-3,-14
+123495  bad beam 3      #pix_list=-3
+123505  bad beam 3      #pix_list=-3
 
