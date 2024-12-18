@@ -17,7 +17,7 @@ on['Per-emb-2'] = [113271, 113408, 113410, 113412,
 
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
-pars1['Per-emb-2']   = "dv=5 dw=20 b_order=1"
+pars1['Per-emb-2']   = "dv=5 dw=20 b_order=1 qagrade=3"
 
 #        common parameters per source on subsequent runs (run1b, run2b)
 pars2 = {}
