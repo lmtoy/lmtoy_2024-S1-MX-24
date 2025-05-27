@@ -13,3 +13,10 @@
 123495  bad beam 3      #pix_list=-3
 123505  bad beam 3      #pix_list=-3
 
+123262  all beams good!
+123319  all beams good!
+123321  all beams good!
+123497  all beams good!
+123503  all beams good!
+123507  all beams good!
+
